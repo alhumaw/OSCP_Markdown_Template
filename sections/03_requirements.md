@@ -1,0 +1,9 @@
+
+## Requirements
+
+The student will be required to fill out this penetration testing report and include the following sections:
+
+- Overall High-Level Summary and Recommendations (non-technical)
+- Methodology walkthrough and detailed outline of steps taken
+- Each finding with included screenshots, walkthrough, sample code, and proof.txt if applicable.
+- Any additional items that were not included

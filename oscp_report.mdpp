@@ -1,0 +1,44 @@
+---
+title: "Offensive Security Certified Professional Exam Report"
+author: ["alhumaw47@gmail.com"]
+osid: "OS-XXXXXXX"
+date: "2025-03-28"
+subject: "Markdown"
+keywords: [Markdown, OSCP, Exam Report]
+subtitle: "OSCP Exam Report"
+lang: "en"
+titlepage: true
+titlepage-color: "DC143C"
+titlepage-text-color: "FFFFFF"
+titlepage-rule-color: "FFFFFF"
+titlepage-rule-height: 2
+book: true
+classoption: oneside
+code-block-font-size: "\\scriptsize"
+
+---
+
+!INCLUDE "sections/01_introduction.md"
+
+!INCLUDE "sections/02_objective.md"
+
+!INCLUDE "sections/03_requirements.md"
+
+!INCLUDE "sections/04_high_level_summary.md"
+
+!INCLUDE "sections/05_recommendations.md"
+
+!INCLUDE "sections/06_methodologies.md"
+
+!INCLUDE "sections/07_individual_targets/01_target.md"
+
+!INCLUDE "sections/07_individual_targets/02_target.md"
+
+!INCLUDE "sections/07_individual_targets/03_target.md"
+
+!INCLUDE "sections/08_ad_targets/01_target.md"
+
+!INCLUDE "sections/08_ad_targets/02_target.md"
+
+!INCLUDE "sections/08_ad_targets/03_target.md"
+
