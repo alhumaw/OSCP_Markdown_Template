@@ -18,4 +18,4 @@ This is really just my own spin-off of two different markdown templates:
 2. All sections are split up in the **sections** directory.
 3. If you want to make a new section, just add it to **oscp_report.mdpp**
 4. run **build.sh**
-6. Check out your PDF in **output**
+6. Check out your PDF in **output/**
