@@ -1,6 +1,6 @@
 ---
 title: "Offensive Security Certified Professional Exam Report"
-author: ["alhumaw47@gmail.com"]
+author: ["EMAIL"]
 osid: "OS-XXXXXXX"
 date: "2025-03-28"
 subject: "Markdown"
@@ -115,9 +115,13 @@ This is valuable for an attacker as it provides detailed information on potentia
 Understanding what applications are running on the system gives an attacker needed information before performing the actual penetration test.
 In some cases, some ports may not be listed.
 
-| Server IP Address | Ports Open                                    |
-| ----------------- | --------------------------------------------- |
-| 192.168.152.95    | **TCP**: 21,22,25,80,443<br>**UDP**: 1434,161 |
+
+
+Server IP Address | Ports Open
+------------------|----------------------------------------
+192.168.X.X       | **TCP**: 1433,3389\
+**UDP**: 1434,161
+
 
 #### Initial Access Vulnerability Exploited
 
@@ -151,9 +155,12 @@ In some cases, some ports may not be listed.
 
 **Service Enumeration**
 
-| Server IP Address | Ports Open                                    |
-| ----------------- | --------------------------------------------- |
-| 192.168.152.95    | **TCP**: 21,22,25,80,443<br>**UDP**: 1434,161 |
+Server IP Address | Ports Open
+------------------|----------------------------------------
+192.168.X.X       | **TCP**: 1433,3389\
+**UDP**: 1434,161
+
+
 
 #### Initial Access Vulnerability Exploited
 
@@ -187,9 +194,12 @@ In some cases, some ports may not be listed.
 
 **Service Enumeration**
 
-| Server IP Address | Ports Open                                    |
-| ----------------- | --------------------------------------------- |
-| 192.168.152.95    | **TCP**: 21,22,25,80,443<br>**UDP**: 1434,161 |
+Server IP Address | Ports Open
+------------------|----------------------------------------
+192.168.X.X       | **TCP**: 1433,3389\
+**UDP**: 1434,161
+
+
 
 #### Initial Access Vulnerability Exploited
 
@@ -233,9 +243,13 @@ This is valuable for an attacker as it provides detailed information on potentia
 Understanding what applications are running on the system gives an attacker needed information before performing the actual penetration test.
 In some cases, some ports may not be listed.
 
-| Server IP Address | Ports Open                                    |
-| ----------------- | --------------------------------------------- |
-| 192.168.152.95    | **TCP**: 21,22,25,80,443<br>**UDP**: 1434,161 |
+Server IP Address | Ports Open
+------------------|----------------------------------------
+192.168.X.X       | **TCP**: 1433,3389\
+**UDP**: 1434,161
+
+
+
 
 #### Initial Access Vulnerability Exploited
 
@@ -269,9 +283,12 @@ In some cases, some ports may not be listed.
 
 **Service Enumeration**
 
-| Server IP Address | Ports Open                                    |
-| ----------------- | --------------------------------------------- |
-| 192.168.152.95    | **TCP**: 21,22,25,80,443<br>**UDP**: 1434,161 |
+Server IP Address | Ports Open
+------------------|----------------------------------------
+192.168.X.X       | **TCP**: 1433,3389\
+**UDP**: 1434,161
+
+
 
 #### Initial Access Vulnerability Exploited
 
@@ -305,9 +322,11 @@ In some cases, some ports may not be listed.
 
 **Service Enumeration**
 
-| Server IP Address | Ports Open                                    |
-| ----------------- | --------------------------------------------- |
-| 192.168.152.95    | **TCP**: 21,22,25,80,443<br>**UDP**: 1434,161 |
+Server IP Address | Ports Open
+------------------|----------------------------------------
+192.168.X.X       | **TCP**: 1433,3389\
+**UDP**: 1434,161
+
 
 #### Initial Access Vulnerability Exploited
 
